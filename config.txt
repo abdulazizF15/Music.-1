@@ -1,6 +1,6 @@
-token=NTQ1OTg2ODgzMzgyMTQ5MTUw.D0hsTw._qncefFNJwGbLIjZeYk72ZROnzI
-owner=515458477053706251
-prefix= M
+token=NTE0ODIyNDgzOTgwMDU4NjQ3.XL7F-A.Yp2DmLkDABovubJE_bMd9LMIVSM
+owner=312075421992615946
+prefix= 9
 game= OFF.
 stayinchannel=true
 songinstatus=true
