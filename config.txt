@@ -3,4 +3,4 @@ owner=312075421992615946
 prefix= 9
 game= . àBdulAziz#8111
 stayinchannel=true
-songinstatus=true
+songinstatus=false
