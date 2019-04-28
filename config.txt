@@ -1,6 +1,6 @@
 token=NTE0ODIyNDgzOTgwMDU4NjQ3.XL7F-A.Yp2DmLkDABovubJE_bMd9LMIVSM
 owner=312075421992615946
 prefix= 9
-game= OFF.
+game= . àBdulAziz#8111
 stayinchannel=true
 songinstatus=true
