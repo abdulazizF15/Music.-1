@@ -1,4 +1,4 @@
-token=NTE0ODIyNDgzOTgwMDU4NjQ3.XL7F-A.Yp2DmLkDABovubJE_bMd9LMIVSM
+token=NTU0MzkxMDg5MjgxMzY4MDY2.XO38Wg.F7XsjzKmrSX6BOaWvhj2umMkZxg
 owner=312075421992615946
 prefix= 9
 game= . àBdulAziz#8111
